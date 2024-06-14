@@ -7,7 +7,6 @@
 ## Profile
 - 이름 : 정재민
 - 경력 : 신입
-
 ## GitHub Stat and Languages
 <p align='center'>
   <a href="https://github.com/Hsegunn">
@@ -36,8 +35,9 @@
 ## Technique Table
 | 기술분류 | 명세 |
 | :---: | :---: |
+|Eclipse|Java와 JavaScript기본학습|
 |Oracle 21C|Database기본학습|
-|Visual Studio Code|Python개발, Spring Boot 개발|
+|Visual Studio Code|Python개발, Spring Boot 개발, HTML와 CSS를 이용한 웹페이지 만들기, Spring Boot를 이용한 프레임워크 학습 |
 
 ## Portfolio
 - Python
