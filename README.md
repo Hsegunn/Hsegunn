@@ -3,17 +3,21 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=BA55D3&height=300&section=header&text=Hsegunn's%20Repository&fontSize=40"/>
   </a>
 </p>
+<p>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHsegunn&count_bg=%23CFC1E7&title_bg=%23BEA3EF&icon=&icon_color=%23E7E7E7&title=Visiter&edge_flat=false"/></a>
+</p>
 
-## Profile
-- 이름 : 정재민
-- 경력 : 신입
 ## GitHub Stat and Languages
-<p align='center'>
+<p>
   <a href="https://github.com/Hsegunn">
     <img src="https://github-readme-stats.vercel.app/api?username=Hsegunn&theme=radical&show_icons=true"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hsegunn&theme=radical&layout=compact"/>
   </a>
 </p>
+
+## Profile
+- 이름 : 정재민
+- 경력 : 신입
 
 # 💪Skills
 ### Platforms & Languages
