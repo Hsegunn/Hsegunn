@@ -20,7 +20,8 @@
 </p>
 
 ## Technique Table
-| 기술분류 | 보유기술 | 기술분류 | 보유기술 |
+| 기술분류 | 명세 |
+| :---: | :---: |
 |Oracle 21C|Database기본학습|
 |Visual Studio Code|Python개발, Spring Boot 개발|
 
