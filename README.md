@@ -17,7 +17,7 @@
 </p>
 
 ## Using Languages
-<p align='left'>
+<p align='center'>
     <img height="40" src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000" title="C#">
     <img height="40" src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000" title="Java">
     <img height="40" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" title="Python">
@@ -25,7 +25,7 @@
 </p>
 
 ## Using Tools
-<p align='left'>
+<p align='center'>
   <img height="40" src="https://img.icons8.com/?size=100&id=39913&format=png&color=000000" title="Oracle">
   <img height="40" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="Git">
   <img height="40" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" title="Visual Studio Code">
