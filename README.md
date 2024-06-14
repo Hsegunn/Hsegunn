@@ -45,7 +45,7 @@
 - Java
   - [스프링부트](https://github.com/Hsegunn/2024-springboot)
 
- ## mailbox
+## :mailbox_with_mail: Contacts
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jm12511671@gmail.com)](mailto:jm12511671@gmail.com)
 [![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:segun9909@naver.com)](mailto:segun9909@naver.com)
 
