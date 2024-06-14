@@ -1,4 +1,8 @@
-## Welcome Hsegunn's Home 👋
+<p align='center'>
+  <a href="https://github.com/hugoMGSung">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=BA55D3&height=300&section=header&text=Hsegunn's%20Repository&fontSize=40"/>
+  </a>
+</p>
 
 ## Profile
 - 이름 : 정재민
@@ -12,11 +16,21 @@
   </a>
 </p>
 
+## Using Languages
+<p align='left'>
+    <img height="40" src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000" title="C#">
+    <img height="40" src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000" title="Java">
+    <img height="40" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" title="Python">
+    <img height="40" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" title="Javascript">
+</p>
+
 ## Using Tools
 <p align='left'>
+  <img height="40" src="https://img.icons8.com/?size=100&id=39913&format=png&color=000000" title="Oracle">
   <img height="40" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="Git">
-  <img height="40" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" title="Java">
   <img height="40" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" title="Visual Studio Code">
+  <img height="40" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" title="Visual Studio">
+  <img height="40" src="https://img.icons8.com/?size=100&id=w1uD6vtDitjr&format=png&color=000000" title="Eclipse">
 </p>
 
 ## Technique Table
@@ -30,3 +44,5 @@
   - [빅데이터분석](https://github.com/Hsegunn/bigdata-analysis-2024)
 - Java
   - [스프링부트](https://github.com/Hsegunn/2024-springboot)
+ 
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
