@@ -15,10 +15,6 @@
   </a>
 </p>
 
-## Profile
-- 이름 : 정재민
-- 경력 : 신입
-
 # 💪Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
