@@ -8,11 +8,9 @@
 </p>
 
 ## Profile
-<h4>
-  이름: 정 재 민
-  최근학습 : Spring Boot를 이용한 Framework
-  연락처 : Naver , Gmail 이메일
-</h4>
+<h4>이름: 정 재 민</h4>
+<h4>최근학습 : Spring Boot를 이용한 Framework</h4>
+<h4>연락처 : Naver , Gmail 이메일</h4>
 
 ## GitHub Stat and Languages
 <p>
