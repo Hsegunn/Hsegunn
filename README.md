@@ -44,6 +44,7 @@
   - [빅데이터분석](https://github.com/Hsegunn/bigdata-analysis-2024)
 - Java
   - [스프링부트](https://github.com/Hsegunn/2024-springboot)
+  - [오라클미니프로젝트](https://github.com/Hsegunn/Java_miniProject)
 
 ## :mailbox_with_mail: Contacts
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jm12511671@gmail.com)](mailto:jm12511671@gmail.com)
