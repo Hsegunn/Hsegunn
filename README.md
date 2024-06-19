@@ -7,6 +7,13 @@
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHsegunn&count_bg=%23CFC1E7&title_bg=%23BEA3EF&icon=&icon_color=%23E7E7E7&title=Visiter&edge_flat=false"/></a>
 </p>
 
+## Profile
+<h4>
+  이름: 정 재 민
+  최근학습 : Spring Boot를 이용한 Framework
+  연락처 : Naver , Gmail 이메일
+</h4>
+
 ## GitHub Stat and Languages
 <p>
   <a href="https://github.com/Hsegunn">
