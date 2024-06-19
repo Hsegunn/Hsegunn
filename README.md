@@ -45,11 +45,7 @@
 |Visual Studio Code|Python개발, Spring Boot 개발, HTML와 CSS를 이용한 웹페이지 만들기, Spring Boot를 이용한 프레임워크 학습 |
 
 ## Portfolio
-- Python
-  - [빅데이터분석](https://github.com/Hsegunn/bigdata-analysis-2024)
-- Java
-  - [스프링부트](https://github.com/Hsegunn/2024-springboot)
-  - [오라클미니프로젝트](https://github.com/Hsegunn/Java_miniProject)
+- [포트폴리오 웹사이트](https://hsegunn.github.io/portfoilo/)
 
 ## :mailbox_with_mail: Contacts
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jm12511671@gmail.com)](mailto:jm12511671@gmail.com)
