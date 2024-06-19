@@ -38,11 +38,12 @@
 
 
 ## Technique Table
-| 기술분류 | 명세 |
-| :---: | :---: |
-|Eclipse|Java와 JavaScript기본학습|
-|Oracle 21C|Database기본학습|
-|Visual Studio Code|Python개발, Spring Boot 개발, HTML와 CSS를 이용한 웹페이지 만들기, Spring Boot를 이용한 프레임워크 학습 |
+| 언어 | 기술 | 도구 |
+| :---: | :---: | :---: |
+|Java| Java와 JavaScript기본학습과 SpringBoot를 이용한 프레임워크 | Eclipse , Visual Studio Code |
+| HTML5,CSS3 | HTML5,CSS3을 이용한 웹페이지 디자인 | Eclipse , Visual Studio Code |
+| Python | Python을 이용한 빅데이터 분석 및 웹 크롤링 | Visual Studio Code |
+| DataBase |Database기본학습| Oracle 21C , MySQL |
 
 ## Portfolio
 - [포트폴리오 웹사이트](https://hsegunn.github.io/JaeminPortfolio/)
